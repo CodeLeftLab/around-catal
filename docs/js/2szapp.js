@@ -1,4 +1,4 @@
-d3.json('./data/2szidx.json', (error, imgs) => {  if (error) {    console.log(error);    return;  }
+d3.json('./data/2szidx.json', (error, imgs) => {  if (error) {    console.log('cant find data.json'+error);    return;  }
 
   const body = d3.select('#container');
   
