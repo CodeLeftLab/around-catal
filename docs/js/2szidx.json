@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Scatterplot (d3 + R)",
+	"img": "graphtypes/scatterplot/1.png",
+    "url" : "graphtypes/scatterplot/2szScatterplot.htm"
+  },
+  {
+    "title": "Treemap (d3)",
+    "img": "graphtypes/treemap/1.png",
+    "url" : "graphtypes/treemap/2szTreemap.htm"
+  },
+  {
+    "title": "Vertical stepped line (d3)",
+    "img": "graphtypes/vertical-stepped-line/1.png",
+    "url" : "graphtypes/vertical-stepped-line/szvl.htm"
+  },
+  {
+    "title": "Small multiples (d3)",
+    "img": "graphtypes/small-multiples/1.png",
+    "url" : "graphtypes/small-multiples/szsmall.htm"
+  },
+  {
+    "title": "Hemicycle (d3)",
+    "img": "graphtypes/hemicycle/1.png",
+    "url" : "graphtypes/hemicycle/szhemi.htm"
+  },
+  {
+    "title": "Timelines bubbles (d3)",
+    "img": "graphtypes/timeline-bubbles/1.png",
+    "url" : "graphtypes/timeline-bubbles/szbb.htm"
+  },
+  {
+    "title": "Waffle (d3)",
+    "img": "graphtypes/waffle/1.png",
+    "url" : "graphtypes/waffle/szwaffle.htm"
+  },
+  {
+    "title": "Joyplot (d3)",
+    "img": "graphtypes/joyplot/1.png",
+    "url" : "graphtypes/joyplot/szjy.htm"
+  }
+
+]
