@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'GillSansW01-Medium';
+  src: url('./GillSansW01-Medium.eot');
+  src: local('☺'),
+       url('./GillSansW01-Medium.eot?iefix') format('eot'),
+       url('./GillSansW01-Medium.woff') format('woff'),
+       url('./GillSansW01-Medium.svg#webfont') format('svg'),
+       local('☺');
+  font-weight: normal;
+  font-style: normal;
+}

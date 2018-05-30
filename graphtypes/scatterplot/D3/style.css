@@ -1,0 +1,16 @@
+svg {margin: 0 auto; display: flex; background-color: #f8f7f1; padding: 25px; }
+
+.axis, .axis text {font: 15px arial; color: #666; fill: #666;}
+.axis path,
+.axis line {fill: none; stroke: lightgrey; stroke-width: 1px; shape-rendering: crispEdges; stroke-dasharray: 5;}
+.axis path {display: none;}
+
+.line {fill: none; stroke: #254251; stroke-width: 3px;}
+
+.label {background-color: #fff; font: 15px arial; fill: #666;}
+
+.annotations {font: 15px arial; fill: #F37F2F;}
+
+path {stroke: #F37F2F; stroke-width: 2px;}
+
+.zero {stroke: lightgrey; stroke-width: 1px;}  

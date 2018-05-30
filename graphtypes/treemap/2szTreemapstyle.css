@@ -1,0 +1,14 @@
+svg {margin: 0 auto; display: flex; background-color: #f8f7f1;}
+
+text, .text {font: 15px arial; color: white; fill: white;}
+.d3-tip {line-height: 1; font: 15px arial; fill: white; color: white; z-index: 1000;}
+
+.legendTitle text {font: 18px Times New Roman; fill: black;}
+
+.playerInfoTitle text {font-size: 30px; font-family: Times New Roman; fill: black;}
+.playerInfo text {font: 15px arial; fill: #696969;
+
+&.mobile {  font: 20px serif;   fill: #1d1d1d; }}
+
+.playerNamesFee {font-size: 15px; fill: rgba(255,255,255, .6)}
+

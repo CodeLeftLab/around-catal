@@ -1,0 +1,46 @@
+.container {
+    margin: 0 auto;
+    padding: 25px;
+    padding-left: 15%;
+    background-color: #f8f7f1;
+    width: 700px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen and (max-width: 700px) {
+    .container {width: 300px; height: 1200px}
+}
+text {
+    font: 10px sans-serif;
+    color: #696969;
+}
+
+text.title {
+    font: 13px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #dbdbdb;
+    shape-rendering: crispEdges;
+}
+.axis {
+    color: lightgrey;
+    opacity: .5
+}
+.line {
+    fill: none;
+    stroke: #254151;
+    stroke-width: 2;
+}
+.area {
+    fill: #254251;
+    opacity:.2;
+}
+
+path.domain {
+    stroke: #dbdbdb;
+    stroke-width: 1px;
+}

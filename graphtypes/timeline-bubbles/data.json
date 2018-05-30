@@ -1,0 +1,122 @@
+[
+{
+"Date": "01/07/2017",
+"Player_full": "Jan Bednarek [Lech Poznan - Southampton] Undisclosed",
+"Fee": "5.4",
+"Player": "Jan Bednarek",
+"Transfer_1": "Lech Poznan - Southampton",
+"Transfer": "Lech Poznan to Southampton"
+},
+{
+"Date": "15/07/2017",
+"Player_full": "Tiemoue Bakayoko [Monaco - Chelsea] Undisclosed",
+"Fee": "35.2",
+"Player": "Tiemoue Bakayoko",
+"Transfer_1": "Monaco - Chelsea",
+"Transfer": "Monaco to Chelsea"
+},
+{
+"Date": "15/07/2017",
+"Player_full": "Douglas Luiz [Vasco Da Gama - Manchester City] Undisclosed",
+"Fee": "10",
+"Player": "Douglas Luiz",
+"Transfer_1": "Vasco Da Gama - Manchester City",
+"Transfer": "Vasco Da Gama to Manchester City"
+},
+{
+"Date": "16/07/2017",
+"Player_full": "Nolito [Manchester City - Sevilla] Undisclosed (reported £7.9m)",
+"Fee": "7.9",
+"Player": "Nolito",
+"Transfer_1": "Manchester City - Sevilla",
+"Transfer": "Manchester City to Sevilla"
+},
+{
+"Date": "21/07/2017",
+"Player_full": "Javier Manquillo [Atletico Madrid - Newcastle] Undisclosed",
+"Fee": "4.5",
+"Player": "Javier Manquillo",
+"Transfer_1": "Atletico Madrid - Newcastle",
+"Transfer": "Atletico Madrid to Newcastle"
+},
+{
+"Date": "22/07/2017",
+"Player_full": "Marko Arnautovic [Stoke - West Ham] £20m up to £25m",
+"Fee": "25",
+"Player": "Marko Arnautovic",
+"Transfer_1": "Stoke - West Ham",
+"Transfer": "Stoke to West Ham"
+},
+{
+"Date": "25/07/2017",
+"Player_full": "Phil Bardsley [Stoke - Burnley] Undisclosed",
+"Fee": "1.5",
+"Player": "Phil Bardsley",
+"Transfer_1": "Stoke - Burnley",
+"Transfer": "Stoke to Burnley"
+},
+{
+"Date": "31/07/2017",
+"Player_full": "Nemanja Matic [Chelsea - Manchester United] £40m",
+"Fee": "80",
+"Player": "Nemanja Matic",
+"Transfer_1": "Chelsea - Manchester United",
+"Transfer": "Chelsea to Manchester United"
+},
+{
+"Date": "03/08/2017",
+"Player_full": "Kelechi Iheanacho [Manchester City - Leicester] £25m",
+"Fee": "25",
+"Player": "Kelechi Iheanacho",
+"Transfer_1": "Manchester City - Leicester",
+"Transfer": "Manchester City to Leicester"
+},
+{
+"Date": "07/08/2017",
+"Player_full": "Sead Haksabanovic [Halmstads BK - West Ham] Undisclosed (reported £2.7m)",
+"Fee": "2.7",
+"Player": "Sead Haksabanovic",
+"Transfer_1": "Halmstads BK - West Ham",
+"Transfer": "Halmstads BK to West Ham"
+},
+{
+"Date": "11/08/2017",
+"Player_full": "Bruno Martins Indi [Porto - Stoke] £7m",
+"Fee": "7",
+"Player": "Bruno Martins Indi",
+"Transfer_1": "Porto - Stoke",
+"Transfer": "Porto to Stoke"
+},
+{
+"Date": "15/08/2017",
+"Player_full": "Gareth Barry [Everton - West Brom] Undisclosed",
+"Fee": "1",
+"Player": "Gareth Barry",
+"Transfer_1": "Everton - West Brom",
+"Transfer": "Everton to West Brom"
+},
+{
+"Date": "21/08/2017",
+"Player_full": "Chris Wood [Leeds - Burnley] Undisclosed (reported £15m)",
+"Fee": "15",
+"Player": "Chris Wood",
+"Transfer_1": "Leeds - Burnley",
+"Transfer": "Leeds to Burnley"
+},
+{
+"Date": "25/08/2017",
+"Player_full": "Oliver Burke [RB Leipzig - West Brom] Undisclosed",
+"Fee": "30",
+"Player": "Oliver Burke",
+"Transfer_1": "RB Leipzig - West Brom",
+"Transfer": "RB Leipzig to West Brom"
+},
+{
+"Date": "29/08/2017",
+"Player_full": "Kevin Wimmer [Tottenham - Stoke] £18m",
+"Fee": "5",
+"Player": "Kevin Wimmer",
+"Transfer_1": "Tottenham - Stoke",
+"Transfer": "Tottenham to Stoke"
+}
+]

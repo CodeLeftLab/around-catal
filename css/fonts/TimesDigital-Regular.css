@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TimesDigital-Regular';
+  src: url('./TimesDigital-Regular.eot');
+  src: local('☺'),
+       url('./TimesDigital-Regular.eot?iefix') format('eot'),
+       url('./TimesDigital-Regular.woff') format('woff'),
+       url('./TimesDigital-Regular.ttf') format('truetype'),
+       url('./TimesDigital-Regular.svg#webfont') format('svg'),
+       local('☺');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,34 @@
+body {background: #fff; display: flex; flex-direction: row;}
+.sidebar {width: 15%; background-color: #f1ffff; display: flex; height: 100vh; position: fixed; flex-direction: column; padding-bottom: 5rem;} .wrapper {width: 100%; margin-left: 15%;} 
+.sidebar, .wrapper {padding-left: 4rem; padding-right: 4rem; padding-top: 1rem;}
+
+@media screen and (max-width: 767px) {body {flex-direction: column;}     .sidebar, .wrapper {width: 100%;}
+    .sidebar {height: 32rem; bottom: 0; padding-top: 0; padding-bottom: 2rem; position: relative; order: 2;}
+    .wrapper {margin-left: 0; padding-right: 1em; padding-left: 1em; padding-top: 2em; position: relative; order: 1;} }
+
+.Headline {color: #000; margin-bottom: 0; font-family: "TimesModern-Bold"; font-size: 1em; line-height: 0.83; width: 100%; display: flex; align-items: center;}
+@media screen and (max-width: 767px) { .Headline, .Standfirst {text-align: center;} }
+
+.Headline iframe {margin-right: 0; margin-left: auto;}
+.Dip {font-size: 1.8em; font-family: "TimesModern-Regular"; margin-top: 0; margin-bottom: 1em; font-size: 1.4em;}
+
+@media screen and (max-width: 767px) {.Headline {font-size: 2.8em; line-height: 1em; margin-bottom: 0.2em;}
+    .Headline iframe {display: none;}    .Dip {font-size: 1.1em;}}
+
+.Article-content p {font-size: 1.4rem; margin-bottom: 1rem; line-height: 2rem;}
+#container {width: 100%; display: flex; flex-direction: row; flex-wrap: wrap; margin-bottom: 2em; margin-top: 3em;}
+img {border-radius: 4px; margin: 0 auto; margin-top: 1em;}
+
+.item {display: flex; flex-direction: column; padding: 1em; margin-bottom: 1em; background-color: #f8f7f1; width: 300px;}
+@media screen and (min-width: 768px) {.item {margin-right: 1em;}}
+
+.chartTitle {font-family: "GillSansW01-Medium"; font-size: 1em;}
+.section {padding-top: 3em; color: #fff;}.section > p {font-family: "GillSansW01-Medium"; margin: 1rem 0 1rem 0; opacity: 0.8;}
+.section a {text-decoration: underline;}
+.Byline {font-family: "TimesModern-Regular"; font-size: 1.4em; line-height: 1.1em; color: #fff; -webkit-font-smoothing: antialiased; display: flex; flex-direction: column; border-bottom: 1px solid #dbdbdb; padding-top: 0.5em; padding-bottom: 0.5em; width: 90%; margin: auto 0 0;}
+
+.team {font-family: "GillSansW01-Medium"; font-size: 0.8em; font-weight: 300; opacity: 0.8;}
+
+
+
+

@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TimesModern-Bold';
+  src: url('./TimesModern-Bold.eot');
+  src: local('☺'),
+       url('./TimesModern-Bold.eot?iefix') format('eot'),
+       url('./TimesModern-Bold.woff') format('woff'),
+       url('./TimesModern-Bold.ttf') format('truetype'),
+       url('./TimesModern-Bold.svg#webfont') format('svg'),
+       local('☺');
+  font-weight: normal;
+  font-style: normal;
+}

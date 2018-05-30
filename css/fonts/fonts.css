@@ -1,0 +1,11 @@
+@font-face {font-family: 'GillSansW01-Medium';   src: url('./GillSansW01-Medium.eot');  src: local('☺'), url('./GillSansW01-Medium.eot?iefix') format('eot'),
+  url('./GillSansW01-Medium.woff') format('woff'), url('./GillSansW01-Medium.svg#webfont') format('svg'), local('☺'); font-weight: normal; font-style: normal;}
+@font-face {font-family: 'TimesDigital-Regular'; src: url('./TimesDigital-Regular.eot'); src: local('☺'),url('./TimesDigital-Regular.eot?iefix') format('eot'),
+  url('./TimesDigital-Regular.woff') format('woff'),  url('./TimesDigital-Regular.ttf') format('truetype'),  url('./TimesDigital-Regular.svg#webfont') format('svg'),  local('☺');
+  font-weight: normal;  font-style: normal;}
+@font-face {font-family: 'TimesModern-Bold';    src: url('./TimesModern-Bold.eot');     src: local('☺'), url('./TimesModern-Bold.eot?iefix') format('eot'),
+       url('./TimesModern-Bold.woff') format('woff'), url('./TimesModern-Bold.ttf') format('truetype'), url('./TimesModern-Bold.svg#webfont') format('svg'), local('☺');
+  font-weight: normal; font-style: normal;}
+@font-face {font-family: 'TimesModern-Regular'; src: url('./TimesModern-Regular.eot');  src: local('☺'),  url('./TimesModern-Regular.eot?iefix') format('eot'),
+       url('./TimesModern-Regular.woff') format('woff'), url('./TimesModern-Regular.ttf') format('truetype'), url('./TimesModern-Regular.svg#webfont') format('svg'), local('☺');
+  font-weight: normal; font-style: normal;}
